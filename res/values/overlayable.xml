@@ -68,6 +68,10 @@
             <item type="drawable" name="root_list_selector"/>
             <!-- END DRAWABLE -->
 
+            <!-- START MIPMAP -->
+            <item type="mipmap" name="ic_launcher"/>
+            <!-- END MIPMAP -->
+
             <!-- START BOOLEAN CONFIG -->
             <item type="bool" name="config_button_all_caps"/>
             <item type="bool" name="config_default_show_device_root"/>
